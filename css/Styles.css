@@ -46,6 +46,21 @@
 	will-change: transform;
 }
 
+.humor {
+	background-image: url(https://i.imgur.com/n9RDBR6.jpg);
+	background-size: auto 100%;
+	width: 900px;
+	height: 500px;
+}
+
+.humor-container {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	will-change: transform;
+}
+
 @keyframes fly-cycle {
 	
 	100% {
