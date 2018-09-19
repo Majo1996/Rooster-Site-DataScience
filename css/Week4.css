@@ -1,0 +1,10 @@
+.divider{
+    border-left:2px solid #90a4ae;
+	height: 7vh;	
+	margin-left:1vw;
+}
+
+body {
+   background-image: url("background.png");
+
+}
